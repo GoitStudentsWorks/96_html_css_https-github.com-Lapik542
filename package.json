@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Etno-dream-project/",
+    "build": "vite build --base=/96_html_css_https-github.com-Lapik542/",
     "preview": "vite preview"
   },
   "devDependencies": {
